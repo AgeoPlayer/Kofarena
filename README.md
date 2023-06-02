@@ -1,3 +1,2 @@
 # Kofarena
 calculadora
-index.html
